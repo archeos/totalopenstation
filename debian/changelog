@@ -1,3 +1,9 @@
+totalopenstation (0.3.1-archeos1) theodoric; urgency=medium
+
+  * changelog
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Wed, 08 Apr 2015 15:17:50 +0200
+
 totalopenstation (0.3.1pre-1) theodoric; urgency=low
 
   * Initial release.
