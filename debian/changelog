@@ -1,3 +1,10 @@
+totalopenstation (0.3.1-archeos3) theodoric; urgency=medium
+
+  * changelog
+  * remove formatting
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Fri, 10 Apr 2015 13:52:21 +0200
+
 totalopenstation (0.3.1-archeos2) theodoric; urgency=medium
 
   * renamed package to totalopenstation
