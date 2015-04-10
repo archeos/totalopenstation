@@ -1,2 +1,4 @@
 usr/bin/*.py usr/share/totalopenstation/
 usr/lib/
+data/totalopenstation.desktop usr/share/applications/
+data/icons/ usr/share/
