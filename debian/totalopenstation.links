@@ -1,0 +1,3 @@
+usr/share/totalopenstation/totalopenstation-cli-parser.py usr/bin/totalopenstation-cli-parser
+usr/share/totalopenstation/totalopenstation-cli-connector.py usr/bin/totalopenstation-cli-connector
+usr/share/totalopenstation/totalopenstation-gui.py usr/bin/totalopenstation-gui

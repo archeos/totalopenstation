@@ -1,0 +1,9 @@
+Document: totalopenstation
+Title: Debian totalopenstation Manual
+Author: Stefano Costa <steko@iosa.it>
+Abstract: Documentation about TOPS.
+Section: Science/Geoscience
+
+Format: Text
+Index: /usr/share/doc/totalopenstation/docs/index.txt
+Files: /usr/share/doc/totalopenstation/docs/*.txt
