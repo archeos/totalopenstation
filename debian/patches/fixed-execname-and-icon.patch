@@ -1,0 +1,12 @@
+Fixed executable and changed icon
+--- a/data/totalopenstation.desktop
++++ b/data/totalopenstation.desktop
+@@ -2,6 +2,7 @@
+ Version=1.0
+ Type=Application
+ Terminal=false
+-Exec=totalopenstation-gui.py
++Exec=totalopenstation-gui
++Icon=totalopenstation
+ Name=Total Open Station
+ Comment=Download and export survey data from your total station
