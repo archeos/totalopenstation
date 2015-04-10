@@ -1,4 +1,4 @@
 usr/bin/*.py usr/share/totalopenstation/
 usr/lib/
 data/totalopenstation.desktop usr/share/applications/
-data/icons/ usr/share/
+data/icons/48x48/totalopenstation.svg usr/share/icons/
