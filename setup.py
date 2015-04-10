@@ -29,6 +29,9 @@ setup(
         'Programming Language :: Python :: 2.7',
         'Topic :: Scientific/Engineering :: GIS',
         ],
+    data_files=[
+        ('share/applications/', ['data/totalopenstation.desktop']),
+    ],
     keywords='survey geodimeter',
     install_requires=['pyserial'],
     include_package_data = True,
